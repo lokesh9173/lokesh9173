@@ -11,6 +11,7 @@
 - Python Programming
 - Data Structures & Algorithms
 - Artificial Intelligence & Generative AI
+- SAP ABAP Backend Development
 
 ---
 
@@ -18,6 +19,7 @@
 
 ### 🧠 Languages
 <p>
+  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
@@ -28,6 +30,7 @@
 
 ### ⚙ Backend & Database
 <p>
+  <img src="https://img.shields.io/badge/SAP%20ABAP%20Backend%20Certified-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql" />
 </p>
 
